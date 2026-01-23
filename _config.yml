@@ -1,11 +1,11 @@
 ### Site Settings ###
-title               : portfolYOU
+title               : MistikEdu
 description         : >-
-                      I turn coffee :coffee: into code,
-                      use tabs over spaces
-                      and never broke production.
-baseurl             : "/portfolYOU"            # Change to empty quotes if you are hosting your site at <your-username>.github.io directly
-repository          : yousinix/portfolYOU      # Change to <your-username>/<your-username>.github.io (or remove it if you don't need remote projects)
+                      Hola! Soy Luis, profe de FP y esta es mi caja de pandora con
+                      apuntes para informática de FP, enlaces, herramientas digitales, sobre informática,
+                      apuntes para oposiciones y presentaciones para módulo.
+baseurl             : ""
+repository          : luisjsolsona/luisjsolsona.github.io
 remote_theme        : yousinix/portfolYOU
 open_new_tab        : false                    # Opens external URLs in new tab (works for posts, projects and navbar only)
 
@@ -25,24 +25,24 @@ nav_exclude:                                            # The following paths ar
 
 ### Author Info ###
 author:
-  name              : John Doe
-  image             : https://i.imgur.com/uyDNQnn.jpg
-  behance           : your_username
+  name              : Luis Solsona
+  image             : https://imgur.com/a/ow2kctK
+# behance           : your_username
 # dribbble          : your_username
-  email             : username@domain.com
-  facebook          : your_username
-  github            : your_username
+# email             : username@domain.com
+# facebook          : your_username
+  github            : luisjsolsona
 # gitlab            : your_username
 # instagram         : your_username
 # kaggle            : your_username
-  linkedin          : your_username
-  medium            : your_username
+  linkedin          : luisjorgesolsonamartinez
+# medium            : your_username
 # soundcloud        : your_username
 # spotify           : your_username
 # stackoverflow     : your_user_id
 # tumblr            : your_username.tumblr.com
 # twitch            : your_username
-  twitter           : your_username
+# twitter           : your_username
 # vimeo             : your_username
 # youtube           : your_channel_name
 # keybase           : your_username
@@ -54,16 +54,20 @@ permalink: /blog/:title
 
 ### Collections ###
 collections:
+  apuntes:
+    output: true
+    permalink: /apuntes/:name
   projects:
     output: true
     permalink: /projects/:name
-  elements:                                             # For Documentation Only
-    output: true                                        # For Documentation Only
+  elements:
+    output: true
+
 
 
 ### Disqus ###
 disqus:
-  shortname: your-short-name-disqus                     # Your website Shortname on disqus
+  shortname: ""                  # Your website Shortname on disqus
 
 
 ### Analytics ###
@@ -77,9 +81,9 @@ analytics:
 # See https://www.buymeacoffee.com/
 buymeacoffee:
   enabled: false
-  username: your_username
+  username: luisjsolmar
   color: "#007bff"
-  message: "Thank you for visiting."                    # Message to be displayed aside from the button for a few seconds.
+  message: "Invitate a un café al menos..."                    # Message to be displayed aside from the button for a few seconds.
   description: "Support me on Buy me a coffee!"
 
 
@@ -87,19 +91,22 @@ buymeacoffee:
 defaults:
   - scope:
       path: ""
-      type: "projects"
+      type: "apuntes"
     values:
       layout: "page"
-  - scope:                                              # For Documentation Only
-      path: ""                                          # For Documentation Only
-      type: "elements"                                  # For Documentation Only
-    values:                                             # For Documentation Only
-      layout: "element"                                 # For Documentation Only
+
+  - scope:                      # Documentation only
+      path: ""
+      type: "elements"
+    values:
+      layout: "element"
+
   - scope:
       path: ""
       type: "posts"
     values:
-      comments: false                                   # Set to true to enable disqus comments
+      comments: false
+
 
 
 ### Exclude from processing ###
