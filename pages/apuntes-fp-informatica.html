@@ -1,12 +1,12 @@
 ---
 layout: page
-title: Apuntes
+title: Apuntes FP informatica
 weight: 1
 permalink: /apuntes-fp-informatica/
 ---
 
 <ul>
-  {% assign lista = site.apuntes | sort: "title" %}
+  {% assign lista = site.apuntes_fp_informatica | sort: "title" %}
   {% for apunte in lista %}
     <li><a href="{{ apunte.url | relative_url }}">{{ apunte.title }}</a></li>
   {% endfor %}
