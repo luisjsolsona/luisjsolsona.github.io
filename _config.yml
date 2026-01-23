@@ -95,6 +95,12 @@ defaults:
     values:
       layout: "page"
 
+  - scope:
+      path: ""
+      type: "projects"
+    values:
+      layout: "page"
+
   - scope:                      # Documentation only
       path: ""
       type: "elements"
