@@ -1,13 +1,12 @@
+
 ---
 layout: page
-title: Apuntes FP informatica
-weight: 1
+title: Apuntes FP Informática
 permalink: /apuntes-fp-informatica/
+weight: 1
+remote_projects: 
+  - git-for-wizards
+  - arduino-visitor-counter
 ---
 
-<ul>
-  {% assign lista = site.apuntes-fp-informatica | sort: "title" %}
-  {% for apunte in lista %}
-    <li><a href="{{ apunte.url | relative_url }}">{{ apunte.title }}</a></li>
-  {% endfor %}
-</ul>
+{% include projects/index.html %}
