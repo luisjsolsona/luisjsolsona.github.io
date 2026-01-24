@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Sobre mí
-permalink: /about/
+permalink: /sobre-mi/
 weight: 3
 ---
 
