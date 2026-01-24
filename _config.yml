@@ -57,9 +57,6 @@ collections:
   apuntes_fp_informatica:
     output: true
     permalink: /apuntes-fp-informatica/:name
-  projects:
-    output: true
-    permalink: /projects/:name
   elements:
     output: true
 
@@ -92,12 +89,6 @@ defaults:
   - scope:
       path: ""
       type: "apuntes_fp_informatica"
-    values:
-      layout: "page"
-
-  - scope:
-      path: ""
-      type: "projects"
     values:
       layout: "page"
 
