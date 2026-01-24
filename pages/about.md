@@ -7,8 +7,8 @@ weight: 3
 
 # *Luis Jorge Solsona Martínez**
 
-Hi I am **{{ site.author.name }}** :wave:,<br>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Hola! Soy **{{ site.author.name }}** :wave:,<br>
+Profe de informática de FP y esta es mi caja de pandora de apuntes, enlaces, herramientas digitales, links a páginas de interés sobre informática y FP, apuntes para oposiciones, presentaciones para módulos, material docente…
 
 <div class="row">
 {% include about/skills.html title="Programming Skills" source=site.data.programming-skills %}
