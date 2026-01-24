@@ -4,6 +4,7 @@ description         : >-
                       Hola! Soy Luis, profe de FP y esta es mi caja de pandora con
                       apuntes para informática de FP, enlaces, herramientas digitales, sobre informática,
                       apuntes para oposiciones y presentaciones para módulo.
+url: "https://luisjsolsona.github.io"
 baseurl             : ""
 repository          : luisjsolsona/luisjsolsona.github.io
 remote_theme        : yousinix/portfolYOU
@@ -56,7 +57,7 @@ permalink: /blog/:title
 collections:
   apuntes_fp_informatica:
     output: true
-    permalink: /apuntes-fp-informatica/:name
+    permalink: /apuntes-fp-informatica/:path/
   elements:
     output: true
 
