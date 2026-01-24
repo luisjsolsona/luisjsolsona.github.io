@@ -54,9 +54,9 @@ permalink: /blog/:title
 
 ### Collections ###
 collections:
-  apuntes_fp_informatica:
+  projects:
     output: true
-    permalink: /apuntes-fp-informatica/:name
+    permalink: /projects/:name
   elements:
     output: true
 
@@ -88,7 +88,7 @@ buymeacoffee:
 defaults:
   - scope:
       path: ""
-      type: "apuntes_fp_informatica"
+      type: "projects"
     values:
       layout: "page"
 
