@@ -54,7 +54,7 @@ permalink: /blog/:title
 
 ### Collections ###
 collections:
-  apuntes_fp_informatica:
+  apuntes-fp-informatica:
     output: true
     permalink: /apuntes-fp-informatica/:name
   elements:
