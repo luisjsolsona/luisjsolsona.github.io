@@ -54,7 +54,7 @@ permalink: /blog/:title
 
 ### Collections ###
 collections:
-  apuntes-fp-informatica:
+  apuntes_fp_informatica:
     output: true
     permalink: /apuntes-fp-informatica/:name
   elements:
@@ -88,7 +88,7 @@ buymeacoffee:
 defaults:
   - scope:
       path: ""
-      type: "apuntes-fp-informatica"
+      type: "apuntes_fp_informatica"
     values:
       layout: "page"
 
