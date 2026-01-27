@@ -2,7 +2,7 @@
 title: Software para profes tesssnologicos
 tags: [Software, Docentes, Profesores, FP, tecnología]
 style: 
-color: blue
+color: primary 
 description: Compilación de recursos y herramientas digitales para profesionales tecnologícos, principalmente profes.
 ---
 
