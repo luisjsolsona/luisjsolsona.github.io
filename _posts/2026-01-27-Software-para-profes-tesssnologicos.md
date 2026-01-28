@@ -1,5 +1,6 @@
 ---
 title: Software para profes tesssnologicos
+date: 2026-01-27
 tags: [Software, Docentes, Profesores, FP, tecnología]
 style: fill
 color: primary 
