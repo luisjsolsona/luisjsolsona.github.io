@@ -13,8 +13,7 @@ kind: ra
 
 ---
 
-## RA 1. Fundamentos de la programación en Python
-Describe los fundamentos de la programación en Python, identificando el flujo de ejecución de un programa y las herramientas de desarrollo asociadas.
+## RA 1. Describe los fundamentos de la programación en Python, identificando el flujo de ejecución de un programa y las herramientas de desarrollo asociadas.
 
 - a) Se ha explicado la importancia de la programación y su evolución a lo largo de la historia.  
 - b) Se ha diferenciado entre lenguaje, algoritmo y programa.  
@@ -24,8 +23,7 @@ Describe los fundamentos de la programación en Python, identificando el flujo d
 
 ---
 
-## RA 2. Estructuras de control, variables y operadores
-Aplica estructuras de control, variables y operadores demostrando su utilidad en el desarrollo de programas.
+## RA 2. Aplica estructuras de control, variables y operadores demostrando su utilidad en el desarrollo de programas.
 
 - a) Se han identificado los distintos tipos de variables y la utilidad específica de cada uno.  
 - b) Se han utilizado las estructuras condicionales en diferentes situaciones.  
@@ -35,8 +33,7 @@ Aplica estructuras de control, variables y operadores demostrando su utilidad en
 
 ---
 
-## RA 3. Funciones y módulos
-Utiliza funciones y módulos para organizar y reutilizar el código, asegurando el mantenimiento del código y mejorando la modularidad del programa.
+## RA 3. Utiliza funciones y módulos para organizar y reutilizar el código, asegurando el mantenimiento del código y mejorando la modularidad del programa.
 
 - a) Se han definido y utilizado funciones con parámetros y valores de retorno.  
 - b) Se han empleado funciones para dividir problemas complejos en partes más sencillas.  
@@ -45,8 +42,7 @@ Utiliza funciones y módulos para organizar y reutilizar el código, asegurando 
 
 ---
 
-## RA 4. Estructuras de datos básicas
-Implementa y manipula estructuras de datos básicas almacenando y gestionando información de manera eficiente.
+## RA 4. Implementa y manipula estructuras de datos básicas almacenando y gestionando información de manera eficiente.
 
 - a) Se ha implementado la entrada y salida de datos por consola.  
 - b) Se han creado y manipulado cadenas de texto utilizando métodos disponibles.  
@@ -57,8 +53,7 @@ Implementa y manipula estructuras de datos básicas almacenando y gestionando in
 
 ---
 
-## RA 5. Programación orientada a objetos
-Aplica principios básicos de programación orientada a objetos creando clases, objetos, métodos y atributos.
+## RA 5. Aplica principios básicos de programación orientada a objetos creando clases, objetos, métodos y atributos.
 
 - a) Se ha reconocido la sintaxis, estructura y componentes típicos de una clase.  
 - b) Se ha definido una clase con atributos y métodos.  
@@ -67,8 +62,7 @@ Aplica principios básicos de programación orientada a objetos creando clases, 
 
 ---
 
-## RA 6. Ficheros
-Maneja ficheros realizando operaciones básicas de lectura y escritura y gestionando el acceso a los mismos.
+## RA 6. Maneja ficheros realizando operaciones básicas de lectura y escritura y gestionando el acceso a los mismos.
 
 - a) Se han reconocido los distintos tipos de ficheros.  
 - b) Se han escrito líneas de código que permiten la apertura de fichero de textos.  
@@ -78,8 +72,7 @@ Maneja ficheros realizando operaciones básicas de lectura y escritura y gestion
 
 ---
 
-## RA 7. Excepciones
-Gestiona excepciones utilizando cláusulas para identificar, manejar y solucionar errores en tiempo de ejecución, asegurando la estabilidad y fiabilidad del programa.
+## RA 7. Gestiona excepciones utilizando cláusulas para identificar, manejar y solucionar errores en tiempo de ejecución, asegurando la estabilidad y fiabilidad del programa.
 
 - a) Se ha diferenciado entre excepción y error de sintaxis.  
 - b) Se ha escrito instrucciones de captura de excepciones.  
