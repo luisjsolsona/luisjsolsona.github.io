@@ -3,7 +3,7 @@ title: Montaje y Mantenimiento equipos informáticos
 codigo: 0221
 ciclo: SMR
 curso: 1º
-color: secondary
+color: primary
 description: "Conocer los componentes de un equipo informático. Saber montar un ordenador."
 kind: modulo
 permalink: /apuntes-fp-informatica/smr/montaje-mantenimiento-equipos/
@@ -13,7 +13,7 @@ permalink: /apuntes-fp-informatica/smr/montaje-mantenimiento-equipos/
 
 ## 📘 Datos del módulo
 - **Ciclo:** SMR
-- **Curso:** 2º
+- **Curso:** 1º
 - **Código:** 0221
 
 ---
@@ -26,21 +26,21 @@ permalink: /apuntes-fp-informatica/smr/montaje-mantenimiento-equipos/
 
 ## 📌 Unidades por RA
 
-- [RA1. Fundamentos de la programación.](ra1())
+- [RA1. Componentes y Funciones equipo informático.](ra1())
 
-- [RA2. Estructuras de control.](ra2/)
+- [RA2. Monaje/desmontaje de un PC.](ra2/)
 
-- [RA3. Funciones y módulos.](ra3/)
+- [RA3. Mide parámetros eléctricos.](ra3/)
 
-- [RA4. Estructura de datos.](ra4/)
+- [RA4. Mantenimiento y detección de errores.](ra4/)
 
-- [RA5. Programación Orientada a Objetos - POO.](ra5/)
+- [RA5. Instalación de SW y recuperación del SO.](ra5/)
 
-- [RA6. Ficheros](ra6/)
+- [RA6. Nuevas tendencias - Modding](ra6/)
 
-- [RA7. Excepciones.](ra7/)
+- [RA7. Mantenimiento Periféricos.](ra7/)
 
-- [RA8. Excepciones.](ra8/)
+- [RA8. Prevención Riesgos Laborales en informática.](ra8/)
 
 
 ---
