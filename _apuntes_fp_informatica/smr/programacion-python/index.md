@@ -17,13 +17,7 @@ description: Programación en Python orientada a ejercicios prácticos, automati
 ---
 
 ## 🎯 Resultados de Aprendizaje (RA)
-- **RA1. Describe los fundamentos de la programación en Phyton, identificando el flujo de ejecución de un programa y las herramientas de desarrollo asociadas.**
-- **RA2. Aplica estructuras de control, variables y operadores demostrando su utilidad en el desarrollo de programas.**
-- **RA3. Utiliza funciones y módulos para organizar y reutilizar el código, asegurando el mantenimiento del código y mejorando la modularidad del programa.**
-- **RA4. Implementa y manipula estructuras de datos básicas almacenando y gestionando información de manera eficiente.**
-- **RA5. Aplica principios básicos de programación orientada a objetos creando clases, objetos, métodos y atributos.**
-- **RA 6. Maneja ficheros realizando operaciones básicas de lectura y escritura y gestionando el acceso a los mismos.**
-- **RA 7. Gestiona excepciones utilizando cláusulas para identificar, manejar y solucionar errores en tiempo de ejecución, asegurando la estabilidad y fiabilidad del programa.**
+👉 [Ver RA y CE del módulo](./ra-python/)
 
 ---
 
