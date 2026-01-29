@@ -1,6 +1,6 @@
 ---
 title: Sistemas Operativos en Red
-codigo: 0222
+codigo: 0224
 ciclo: SMR
 curso: 2º
 color: secondary
@@ -14,7 +14,7 @@ permalink: /apuntes-fp-informatica/smr/sistemas-operativos-en-red/
 ## 📘 Datos del módulo
 - **Ciclo:** SMR
 - **Curso:** 2º
-- **Código:** 0222
+- **Código:** 0224
 
 ---
 
