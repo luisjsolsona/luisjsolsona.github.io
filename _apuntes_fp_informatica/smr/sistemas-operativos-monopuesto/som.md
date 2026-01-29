@@ -26,15 +26,15 @@ permalink: /apuntes-fp-informatica/smr/sistemas-operativos-monopuesto/
 
 ## 📌 Unidades por RA
 
-- [RA1. Fundamentos de la programación.](ra1/)
+- [RA1. Software base.](ra1/)
 
-- [RA2. Estructuras de control.](ra2/)
+- [RA2. Instala Sistemas Operativos.](ra2/)
 
-- [RA3. Funciones y módulos.](ra3/)
+- [RA3. Configuración del SO.](ra3/)
 
-- [RA4. Estructura de datos.](ra4/)
+- [RA4. Administración del SO.](ra4/)
 
-- [RA5. Programación Orientada a Objetos - POO.](ra5/)
+- [RA5. Máquinas Virtuales.](ra5/)
 
 
 ---

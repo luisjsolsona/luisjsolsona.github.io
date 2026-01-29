@@ -28,7 +28,7 @@ permalink: /apuntes-fp-informatica/smr/montaje-mantenimiento-equipos/
 
 - [RA1. Componentes y Funciones equipo informático.](ra1())
 
-- [RA2. Monaje/desmontaje de un PC.](ra2/)
+- [RA2. Montaje/desmontaje de un PC.](ra2/)
 
 - [RA3. Mide parámetros eléctricos.](ra3/)
 
