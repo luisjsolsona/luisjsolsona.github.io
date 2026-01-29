@@ -19,7 +19,7 @@ permalink: /apuntes-fp-informatica/smr/programacion-python/
 ---
 
 ## 🎯 Resultados de Aprendizaje (RA)
-👉 [Ver RA y CE del módulo]({{ page.url }}ra-python/)
+👉 [Ver RA y CE del módulo](ra-python/)
 
 
 ---
