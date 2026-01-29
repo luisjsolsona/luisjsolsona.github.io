@@ -5,27 +5,44 @@ permalink: /apuntes-fp-informatica/
 weight: 1
 ---
 
-<p>Apuntes organizados por ciclos y módulos.</p>
+<p class="lead">Apuntes organizados por ciclos y módulos.</p>
 
 {% assign apuntes = site.apuntes_fp_informatica %}
-
 {% assign ciclos = "SMR,FPB,ASIR,DAM,DAW" | split: "," %}
 
 {% for ciclo in ciclos %}
-  <h2>{{ ciclo }}</h2>
+  <h2 class="mt-4">{{ ciclo }}</h2>
 
   {% assign items = apuntes | where: "ciclo", ciclo | sort: "title" %}
 
   {% if items.size > 0 %}
-    <ul>
+    <div class="row">
       {% for a in items %}
-        <li>
-          <a href="{{ a.url }}">{{ a.title }}</a>
-        </li>
-      {% endfor %}
-    </ul>
-  {% else %}
-    <p><em>No hay apuntes publicados aún.</em></p>
-  {% endif %}
+        <div class="col-12 col-md-6 col-lg-4 mb-3">
+          <div class="card h-100 shadow-sm">
+            <div class="card-body">
+              <h5 class="card-title mb-2">
+                <a href="{{ a.url }}">{{ a.title }}</a>
+              </h5>
 
+              {% if a.description %}
+                <p class="card-text text-muted">{{ a.description }}</p>
+              {% endif %}
+
+              <div class="small text-muted">
+                {% if a.curso %}{{ a.curso }} · {% endif %}
+                {{ ciclo }}
+              </div>
+            </div>
+
+            <div class="card-footer bg-white border-0 pt-0">
+              <a class="btn btn-sm btn-primary" href="{{ a.url }}">Abrir</a>
+            </div>
+          </div>
+        </div>
+      {% endfor %}
+    </div>
+  {% else %}
+    <p class="text-muted"><em>No hay apuntes publicados aún.</em></p>
+  {% endif %}
 {% endfor %}

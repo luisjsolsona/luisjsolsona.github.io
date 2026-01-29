@@ -1,6 +1,8 @@
 ---
 title: SOM (Sistemas Operativos Monopuesto)
 ciclo: SMR
+curso: 1º
+description: Instalación, usuarios, permisos, procesos y scripting básico.
 ---
 
 # SOM (Sistemas Operativos Monopuesto)
