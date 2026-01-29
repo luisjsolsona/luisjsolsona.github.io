@@ -3,43 +3,44 @@ title: NOMBRE DEL MÓDULO
 codigo: # 0221 | 0222 | AOP1032
 ciclo: # SMR | FPB | ASIR | DAM | DAW
 curso: # 1º | 2º
-description: "Servicios, directorio, permisos, redes y administración."
 color: # primary | secondary | success | danger | warning | info | dark
+description: "Servicios, directorio, permisos, redes y administración."
+kind: modulo
+permalink: /apuntes-fp-informatica/smr/nombre-carpeta-modulo/
 ---
 
-# NOMBRE DEL MÓDULO
+# Nombre del módulo
 
 ## 📘 Datos del módulo
-- **Ciclo:** 
-- **Curso:** 
-- **Horas:** 
-- **Profesorado:** 
+- **Ciclo:** SMR
+- **Curso:** 2º
+- **Código:** AOP1032
 
 ---
 
 ## 🎯 Resultados de Aprendizaje (RA)
-- **RA1.** 
-- **RA2.** 
-- **RA3.** 
+👉 [Ver RA y CE del módulo](ra-python/)
+
 
 ---
 
-## 📏 Criterios de Evaluación (CE)
+## 📌 Unidades por RA
 
-### RA1
-- CE1.1 
-- CE1.2 
+- [RA1. Fundamentos de la programación.](ra1/)
 
-### RA2
-- CE2.1 
-- CE2.2 
+- [RA2. Estructuras de control.](ra2/)
 
----
+- [RA3. Funciones y módulos.](ra3/)
 
-## 📚 Contenidos
-- Tema 1. 
-- Tema 2. 
-- Tema 3. 
+- [RA4. Estructura de datos.](ra4/)
+
+- [RA5. Programación Orientada a Objetos - POO.](ra5/)
+
+- [RA6. Ficheros](ra6/)
+
+- [RA7. Excepciones.](ra7/)
+
+
 
 ---
 
@@ -59,10 +60,7 @@ color: # primary | secondary | success | danger | warning | info | dark
 
 ## 🗂️ Recursos
 - Enlaces
-- Apuntes
+- Otros Apuntes
 - Documentación oficial
 
 ---
-
-## ⚠️ Observaciones
-Notas importantes, avisos, consejos para el alumnado.

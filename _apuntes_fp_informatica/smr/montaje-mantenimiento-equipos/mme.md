@@ -1,13 +1,66 @@
 ---
-title: MME (Montaje y Mantenimiento de Equipos)
+title: NOMBRE DEL MÓDULO
 codigo: 0221
-ciclo: SMR
+ciclo: SMRW
 curso: 1º
-description: Hardware, montaje, mantenimiento y seguridad básica.
 color: primary
+description: "Montaje y Mantenimiento equipos informáticos."
 kind: modulo
+permalink: /apuntes-fp-informatica/smr/montaje-mantenimiento-equipos/
 ---
 
-# MME (Montaje y Mantenimiento de Equipos)
+# Montaje y Mantenimiento Equipos informáticos
 
-Apuntes del módulo de **Montaje y Mantenimiento de Equipos**.
+## 📘 Datos del módulo
+- **Ciclo:** SMR
+- **Curso:** 2º
+- **Código:** 0221
+
+---
+
+## 🎯 Resultados de Aprendizaje (RA)
+👉 [Ver RA y CE del módulo](ra-mme/)
+
+
+---
+
+## 📌 Unidades por RA
+
+- [RA1. Fundamentos de la programación.](ra1())
+
+- [RA2. Estructuras de control.](ra2/)
+
+- [RA3. Funciones y módulos.](ra3/)
+
+- [RA4. Estructura de datos.](ra4/)
+
+- [RA5. Programación Orientada a Objetos - POO.](ra5/)
+
+- [RA6. Ficheros](ra6/)
+
+- [RA7. Excepciones.](ra7/)
+
+
+
+---
+
+## 🛠️ Prácticas / Actividades
+- Práctica 1: 
+- Práctica 2: 
+- Práctica 3: 
+
+---
+
+## 🧪 Evaluación
+- Prácticas: %
+- Pruebas objetivas: %
+- Actitud / trabajo diario: %
+
+---
+
+## 🗂️ Recursos
+- Enlaces
+- Otros Apuntes
+- Documentación oficial
+
+---
