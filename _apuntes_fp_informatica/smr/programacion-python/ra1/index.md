@@ -1,25 +1,24 @@
 ---
-title: RA1 – Programación en Python
+title: RA1 – Programación en Python (AOP1032)
 ciclo: SMR
 curso: 2º
 modulo: Programación en Python
 codigo: AOP1032
+kind: ra
 ra: RA1
-kind: ud
+permalink: /apuntes-fp-informatica/smr/programacion-python/ra1/
 ---
 
 # RA1
 
 ## Unidades didácticas
 
-{% assign uds = site.apuntes_fp_informatica | where: "ra", "RA1" | sort: "ud" %}
+{% assign uds = site.apuntes_fp_informatica | where: "codigo", "AOP1032" | where: "ra", "RA1" | sort: "ud" %}
 
 {% if uds.size > 0 %}
 <ul>
   {% for u in uds %}
-    <li>
-      <a href="{{ u.url }}">{{ u.title }}</a>
-    </li>
+    <li><a href="{{ u.url }}">{{ u.title }}</a></li>
   {% endfor %}
 </ul>
 {% else %}

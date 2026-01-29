@@ -25,10 +25,11 @@ permalink: /apuntes-fp-informatica/smr/programacion-python/
 ---
 
 ## 📌 Unidades por RA
-- [RA1](./ra1/)
-- [RA2](./ra2/)
-- [RA3](./ra3/)
-- [RA4](./ra4/)
-- [RA5](./ra5/)
-- [RA6](./ra6/)
-- [RA7](./ra7/)
+- [RA1](ra1/)
+- [RA2](ra2/)
+- [RA3](ra3/)
+- [RA4](ra4/)
+- [RA5](ra5/)
+- [RA6](ra6/)
+- [RA7](ra7/)
+
