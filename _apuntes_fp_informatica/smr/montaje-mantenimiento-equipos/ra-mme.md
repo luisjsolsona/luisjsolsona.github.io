@@ -8,7 +8,7 @@ hidden: true
 kind: ra
 ---
 
-# RAs Programación en Python
+# RAs Montaje y Mantenimiento de Equipos Informáticos
 
 ## Resultados de Aprendizaje y Criterios de Evaluación  
 
