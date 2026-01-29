@@ -1,5 +1,6 @@
 ---
 title: NOMBRE DEL MÓDULO
+codigo: # 0221 | 0222 | AOP1032
 ciclo: # SMR | FPB | ASIR | DAM | DAW
 curso: # 1º | 2º
 description: "Servicios, directorio, permisos, redes y administración."
