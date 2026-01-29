@@ -6,6 +6,7 @@ curso: 2º
 color: dark
 description: Programación en Python orientada a ejercicios prácticos, automatización y resolución de problemas.
 kind: modulo
+permalink: /apuntes-fp-informatica/smr/programacion-python/
 ---
 
 # Programación en Python
@@ -18,7 +19,7 @@ kind: modulo
 ---
 
 ## 🎯 Resultados de Aprendizaje (RA)
-👉 [Ver RA y CE del módulo](ra-python/)
+👉 [Ver RA y CE del módulo]({{ page.url }}ra-python/)
 
 
 ---
