@@ -1,5 +1,6 @@
 ---
 title: SOM (Sistemas Operativos Monopuesto)
+ciclo: SMR
 ---
 
 # SOM (Sistemas Operativos Monopuesto)

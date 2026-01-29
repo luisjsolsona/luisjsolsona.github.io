@@ -1,5 +1,6 @@
 ---
 title: MME (Montaje y Mantenimiento de Equipos)
+ciclo: SMR
 ---
 
 # MME (Montaje y Mantenimiento de Equipos)

@@ -5,18 +5,27 @@ permalink: /apuntes-fp-informatica/
 weight: 1
 ---
 
-<p>Apuntes organizados por módulos/asignaturas.</p>
+<p>Apuntes organizados por ciclos y módulos.</p>
 
-{% assign items = site.apuntes_fp_informatica | sort: "title" %}
+{% assign apuntes = site.apuntes_fp_informatica %}
 
-{% if items and items.size > 0 %}
-  <ul>
-    {% for a in items %}
-      <li>
-        <a href="{{ a.url }}">{{ a.title | default: a.name }}</a>
-      </li>
-    {% endfor %}
-  </ul>
-{% else %}
-  <p><em>Aún no hay apuntes publicados en esta sección.</em></p>
-{% endif %}
+{% assign ciclos = "SMR,FPB,ASIR,DAM,DAW" | split: "," %}
+
+{% for ciclo in ciclos %}
+  <h2>{{ ciclo }}</h2>
+
+  {% assign items = apuntes | where: "ciclo", ciclo | sort: "title" %}
+
+  {% if items.size > 0 %}
+    <ul>
+      {% for a in items %}
+        <li>
+          <a href="{{ a.url }}">{{ a.title }}</a>
+        </li>
+      {% endfor %}
+    </ul>
+  {% else %}
+    <p><em>No hay apuntes publicados aún.</em></p>
+  {% endif %}
+
+{% endfor %}
