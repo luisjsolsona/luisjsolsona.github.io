@@ -4,54 +4,31 @@ description         : >-
                       Hola! Soy Luis, profe de FP y esta es mi caja de pandora con
                       apuntes para informática de FP, enlaces, herramientas digitales, sobre informática,
                       apuntes para oposiciones y presentaciones para módulo.
-url: "https://luisjsolsona.github.io"
+url                 : "https://luisjsolsona.github.io"
 baseurl             : ""
 repository          : luisjsolsona/luisjsolsona.github.io
 remote_theme        : yousinix/portfolYOU
 open_new_tab        : false                    # Opens external URLs in new tab (works for posts, projects and navbar only)
 
-
 ### Plugins ###
 plugins:
   - jemoji
-
 
 ### Navbar Settings ###
 nav_exclude:                                            # The following paths are excluded from navbar
   - pages/tags.html
   - pages/404.html
   - pages/index.md
-  - documentation/partials/**                           # For Documentation Only
-
 
 ### Author Info ###
 author:
   name              : Luis Solsona
   image             : /assets/img/Luis-Solsona.jpg
-# behance           : your_username
-# dribbble          : your_username
-# email             : username@domain.com
-# facebook          : your_username
   github            : luisjsolsona
-# gitlab            : your_username
-# instagram         : your_username
-# kaggle            : your_username
   linkedin          : luisjorgesolsonamartinez
-# medium            : your_username
-# soundcloud        : your_username
-# spotify           : your_username
-# stackoverflow     : your_user_id
-# tumblr            : your_username.tumblr.com
-# twitch            : your_username
-# twitter           : your_username
-# vimeo             : your_username
-# youtube           : your_channel_name
-# keybase           : your_username
-
 
 ### Posts ###
 permalink: /blog/:title
-
 
 ### Collections ###
 collections:
@@ -61,39 +38,33 @@ collections:
   elements:
     output: true
 
-
-
 ### Disqus ###
 disqus:
   shortname: ""                  # Your website Shortname on disqus
 
-
 ### Analytics ###
 analytics:
-  enabled: false                                        # Set true to enable analytics
+  enabled: false
   google:
     tracking_id: your-google-tracking-id
 
-
 ### Buy me a coffee ###
-# See https://www.buymeacoffee.com/
 buymeacoffee:
   enabled: false
   username: luisjsolmar
   color: "#007bff"
-  message: "Invitate a un café al menos..."                    # Message to be displayed aside from the button for a few seconds.
+  message: "Invitate a un café al menos..."
   description: "Support me on Buy me a coffee!"
-
 
 ### Defaults for collections ###
 defaults:
   - scope:
       path: ""
-      type: "apuntes"
+      type: "apuntes_fp_informatica"
     values:
       layout: "page"
 
-  - scope:                      # Documentation only
+  - scope:                      # Elements only
       path: ""
       type: "elements"
     values:
@@ -105,11 +76,11 @@ defaults:
     values:
       comments: false
 
-
-
 ### Exclude from processing ###
 exclude:
   - README.md
   - CONTRIBUTING.md
   - LICENSE
   - "*.log"
+  - documentation
+  - documentation/**
