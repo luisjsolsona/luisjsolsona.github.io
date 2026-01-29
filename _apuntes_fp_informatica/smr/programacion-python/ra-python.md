@@ -4,6 +4,7 @@ ciclo: SMR
 curso: 2º
 modulo: Programación en Python
 codigo: AOP1032
+hidden: true
 ---
 
 # Resultados de Aprendizaje y Criterios de Evaluación  
