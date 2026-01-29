@@ -5,6 +5,18 @@ permalink: /apuntes-fp-informatica/
 weight: 1
 ---
 
+<p>Apuntes organizados por módulos/asignaturas.</p>
 
-{% include apuntes-fp-informatica/search.html %}
-{% include apuntes-fp-informatica/index.html %}
+{% assign items = site.apuntes_fp_informatica | sort: "title" %}
+
+{% if items and items.size > 0 %}
+  <ul>
+    {% for a in items %}
+      <li>
+        <a href="{{ a.url }}">{{ a.title | default: a.name }}</a>
+      </li>
+    {% endfor %}
+  </ul>
+{% else %}
+  <p><em>Aún no hay apuntes publicados en esta sección.</em></p>
+{% endif %}
