@@ -3,7 +3,7 @@ title: Montaje y Mantenimiento equipos informáticos
 codigo: 0221
 ciclo: SMR
 curso: 1º
-color: primary
+color: secondary
 description: "Conocer los componentes de un equipo informático. Saber montar un ordenador."
 kind: modulo
 permalink: /apuntes-fp-informatica/smr/montaje-mantenimiento-equipos/
