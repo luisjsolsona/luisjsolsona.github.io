@@ -1,7 +1,9 @@
 ---
 title: NOMBRE DEL MÓDULO
-ciclo: SMR | FPB | ASIR | DAM | DAW
-curso: 1º | 2º
+ciclo: # SMR | FPB | ASIR | DAM | DAW
+curso: # 1º | 2º
+description: "Servicios, directorio, permisos, redes y administración."
+color: # primary | secondary | success | danger | warning | info | dark
 ---
 
 # NOMBRE DEL MÓDULO
