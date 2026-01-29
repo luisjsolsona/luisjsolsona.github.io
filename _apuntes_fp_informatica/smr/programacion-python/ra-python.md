@@ -12,6 +12,8 @@ kind: ra
 
 ## Resultados de Aprendizaje y Criterios de Evaluación  
 
+---
+
 ### RA 1. Describe los fundamentos de la programación en Python, identificando el flujo de ejecución de un programa y las herramientas de desarrollo asociadas.
 
 - a) Se ha explicado la importancia de la programación y su evolución a lo largo de la historia.  
