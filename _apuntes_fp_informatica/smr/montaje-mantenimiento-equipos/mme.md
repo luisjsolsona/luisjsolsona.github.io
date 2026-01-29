@@ -1,7 +1,7 @@
 ---
 title: NOMBRE DEL MÓDULO
 codigo: 0221
-ciclo: SMRW
+ciclo: SMR
 curso: 1º
 color: primary
 description: "Montaje y Mantenimiento equipos informáticos."
