@@ -1,8 +1,8 @@
 ---
-title: Programación en Python (AOP1032)
+title: Programación en Python
+codigo: AOP1032
 ciclo: SMR
 curso: 2º
-codigo: AOP1032
 color: dark
 description: Programación en Python orientada a ejercicios prácticos, automatización y resolución de problemas.
 ---
