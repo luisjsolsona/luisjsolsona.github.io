@@ -40,6 +40,7 @@ permalink: /apuntes-fp-informatica/smr/montaje-mantenimiento-equipos/
 
 - [RA7. Excepciones.](ra7/)
 
+- [RA8. Excepciones.](ra8/)
 
 
 ---
