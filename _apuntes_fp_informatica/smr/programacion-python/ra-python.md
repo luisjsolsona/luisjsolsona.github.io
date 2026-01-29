@@ -22,6 +22,7 @@ kind: ra
 - d) Se ha escrito código con la sintaxis básica.  
 - e) Se ha identificado el flujo de ejecución del programa.  
 
+---
 
 ### RA 2. Aplica estructuras de control, variables y operadores demostrando su utilidad en el desarrollo de programas.
 
@@ -31,6 +32,7 @@ kind: ra
 - d) Se han utilizado los operadores lógicos y relacionales para controlar el flujo del programa.  
 - e) Se han implementado algoritmos que requieren la combinación de estructuras de control y repetición.  
 
+----
 
 ### RA 3. Utiliza funciones y módulos para organizar y reutilizar el código, asegurando el mantenimiento del código y mejorando la modularidad del programa.
 
@@ -39,6 +41,7 @@ kind: ra
 - c) Se han importado y utilizado librerías estándar.  
 - d) Se ha aplicado la modularidad en programas sencillos.  
 
+---
 
 ### RA 4. Implementa y manipula estructuras de datos básicas almacenando y gestionando información de manera eficiente.
 
@@ -49,6 +52,7 @@ kind: ra
 - e) Se han implementado diccionarios para almacenar y recuperar datos mediante claves.  
 - f) Se ha aplicado la combinación de diferentes estructuras de datos en un mismo programa.  
 
+---
 
 ### RA 5. Aplica principios básicos de programación orientada a objetos creando clases, objetos, métodos y atributos.
 
@@ -57,6 +61,7 @@ kind: ra
 - c) Se han instanciado objetos a partir de clases y se han utilizado sus atributos y métodos.  
 - d) Se han identificado las propiedades de herencia y encapsulamiento.  
 
+---
 
 ### RA 6. Maneja ficheros realizando operaciones básicas de lectura y escritura y gestionando el acceso a los mismos.
 
@@ -66,6 +71,7 @@ kind: ra
 - d) Se han escrito líneas de código que permiten la escritura de fichero de textos.  
 - e) Se han manejado archivos CSV para almacenar y recuperar datos.  
 
+---
 
 ### RA 7. Gestiona excepciones utilizando cláusulas para identificar, manejar y solucionar errores en tiempo de ejecución, asegurando la estabilidad y fiabilidad del programa.
 
