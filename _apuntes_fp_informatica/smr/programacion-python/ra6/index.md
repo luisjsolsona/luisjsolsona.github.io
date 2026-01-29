@@ -4,7 +4,7 @@ ciclo: SMR
 curso: 2º
 modulo: Programación en Python
 codigo: AOP1032
-kind: ra
+kind: ud
 ra: RA6
 permalink: /apuntes-fp-informatica/smr/programacion-python/ra6/
 ---
