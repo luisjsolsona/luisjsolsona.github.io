@@ -5,6 +5,7 @@ ciclo: SMR
 curso: 1º
 description: Hardware, montaje, mantenimiento y seguridad básica.
 color: primary
+kind: modulo
 ---
 
 # MME (Montaje y Mantenimiento de Equipos)

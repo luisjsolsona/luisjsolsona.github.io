@@ -13,13 +13,20 @@ weight: 1
 {% for ciclo in ciclos %}
   <h2 class="mt-4">{{ ciclo }}</h2>
 
-  {% assign items = apuntes | where: "ciclo", ciclo | where_exp: "a", "a.hidden != true" | sort: "title" %}
+  {% assign items = apuntes
+  | where: "ciclo", ciclo
+  | where: "kind", "modulo"
+  | where_exp: "a", "a.hidden != true"
+  | sort: "title"
+  %}
+
+
 
   {% if items.size > 0 %}
     <div class="row">
       {% for a in items %}
         <div class="col-12 col-md-6 col-lg-4 mb-3">
-          <div class="card h-100 shadow-sm">
+          <div class="card h-100 shadow-sm border-{{ a.color | default: 'secondary' }}">
             <div class="card-body">
               <h5 class="card-title mb-2">
                 <a href="{{ a.url }}">{{ a.title }}</a>

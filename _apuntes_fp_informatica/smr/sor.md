@@ -5,6 +5,7 @@ ciclo: SMR
 curso: 2º
 description: Servicios, directorio, permisos, redes y administración.
 color: primary
+kind: modulo
 ---
 
 

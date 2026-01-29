@@ -5,6 +5,7 @@ curso: 2º
 modulo: Programación en Python
 codigo: AOP1032
 ra: RA7
+kind: ud
 ---
 
 # RA7

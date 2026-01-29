@@ -5,6 +5,7 @@ ciclo: SMR
 curso: 1º
 description: Instalación, usuarios, permisos, procesos y scripting básico.
 color: secondary
+kind: modulo
 ---
 
 # SOM (Sistemas Operativos Monopuesto)

@@ -5,6 +5,7 @@ curso: 2º
 modulo: Programación en Python
 codigo: AOP1032
 hidden: true
+kind: ra
 ---
 
 # Resultados de Aprendizaje y Criterios de Evaluación  
