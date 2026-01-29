@@ -13,7 +13,7 @@ kind: ra
 
 ---
 
-## RA 1. Describe los fundamentos de la programación en Python, identificando el flujo de ejecución de un programa y las herramientas de desarrollo asociadas.
+### RA 1. Describe los fundamentos de la programación en Python, identificando el flujo de ejecución de un programa y las herramientas de desarrollo asociadas.
 
 - a) Se ha explicado la importancia de la programación y su evolución a lo largo de la historia.  
 - b) Se ha diferenciado entre lenguaje, algoritmo y programa.  
@@ -23,7 +23,7 @@ kind: ra
 
 ---
 
-## RA 2. Aplica estructuras de control, variables y operadores demostrando su utilidad en el desarrollo de programas.
+### RA 2. Aplica estructuras de control, variables y operadores demostrando su utilidad en el desarrollo de programas.
 
 - a) Se han identificado los distintos tipos de variables y la utilidad específica de cada uno.  
 - b) Se han utilizado las estructuras condicionales en diferentes situaciones.  
