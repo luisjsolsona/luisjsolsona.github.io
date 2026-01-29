@@ -40,3 +40,27 @@ permalink: /apuntes-fp-informatica/smr/programacion-python/
 
 - [RA7. Excepciones.](ra7/)
 
+
+
+---
+
+## 🛠️ Prácticas / Actividades
+- Práctica 1: 
+- Práctica 2: 
+- Práctica 3: 
+
+---
+
+## 🧪 Evaluación
+- Prácticas: %
+- Pruebas objetivas: %
+- Actitud / trabajo diario: %
+
+---
+
+## 🗂️ Recursos
+- Enlaces
+- Otros Apuntes
+- Documentación oficial
+
+---
