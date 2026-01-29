@@ -18,7 +18,8 @@ kind: modulo
 ---
 
 ## 🎯 Resultados de Aprendizaje (RA)
-👉 [Ver RA y CE del módulo](./ra-python/)
+👉 [Ver RA y CE del módulo](ra-python/)
+
 
 ---
 
