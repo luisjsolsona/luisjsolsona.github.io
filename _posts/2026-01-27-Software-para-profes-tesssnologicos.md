@@ -2,7 +2,7 @@
 title: Software para profes tecnológicos
 date: 2026-01-27
 tags: [Software, Docentes, Profesorado, FP, Tecnología]
-style: fill
+style: border
 color: primary
 description: Compilación de recursos y herramientas digitales para profesionales tecnológicos, principalmente profesorado.
 ---
