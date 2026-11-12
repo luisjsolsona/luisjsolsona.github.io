@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+<meta charset="utf-8">
+<title>MistikEDU</title>
+<script>
+  // Antiguo /reloj-alarma/ → nuevo repo; todo lo demás, a mistikedu.com
+  var p = location.pathname;
+  location.replace(p === "/reloj-alarma" || p.indexOf("/reloj-alarma/") === 0
+    ? "/reloj-alarma-temporizador/"
+    : "https://mistikedu.com/");
+</script>
+<meta http-equiv="refresh" content="1; url=https://mistikedu.com/">
+</head>
+<body>
+<p>Redirigiendo a <a href="https://mistikedu.com/">mistikedu.com</a>…</p>
+</body>
+</html>

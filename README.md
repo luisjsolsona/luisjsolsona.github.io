@@ -1,2 +1,5 @@
 # luisjsolsona.github.io
-Hola! Soy Luis, profe de FP y esta es mi caja de pandora de apuntes, enlaces, herramientas digitales, links a páginas de interés sobre informática y FP, apuntes para oposiciones, presentaciones para módulos…
+
+Redirige a [mistikedu.com](https://mistikedu.com).
+
+El reloj/alarma se ha movido a [reloj-alarma-temporizador](https://github.com/luisjsolsona/reloj-alarma-temporizador).
