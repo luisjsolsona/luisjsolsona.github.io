@@ -25,7 +25,8 @@ Cada herramienta guarda su propio tipo de barra (⚙️ Ajustes):
 - 🏃 Carrera: el corredor llega a la meta
 - 🐊 Jungla: el cocodrilo se acerca a la persona hasta el «¡ÑAM!»
 - 🚀 Cohete: de la Tierra a la Luna
-- 🐛 Oruga: se come las frutas y se convierte en mariposa
+- 🐂 San Fermín: el toro persigue al mozo (de blanco y pañuelo rojo) hasta la plaza
+- 🛸 Alien: un ovni llega a la Tierra
 - 🕯️ Vela: se consume hasta apagarse
 - ⏳ Reloj de arena
 
